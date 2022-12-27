@@ -11,6 +11,11 @@ In this repo you could make a one to one private chat application
  - PHP - Laravel 
  - JavaScript 
  
+ ## Features
+  - Private one-to-one
+  - User Typing..
+  - User status [Online - Offline]
+  - Message status [Readed - Unreaded]
 
 
 ## Configuration 
