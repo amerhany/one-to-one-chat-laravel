@@ -1,5 +1,5 @@
 
-# One to one Chat App with Laravel 
+# Simple One to one Chat App with Laravel 
 
 In this repo you could make a one to one private chat application
 
